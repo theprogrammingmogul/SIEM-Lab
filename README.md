@@ -1,4 +1,4 @@
-<h1>Active Directory Lab</h1>
+<h1>SIEM Lab</h1>
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
